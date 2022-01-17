@@ -6,3 +6,7 @@
 	path = ethereum-docker
 	url = https://github.com/gluckzhang/ethereum-docker.git
 	branch = geth-v1.10.12
+[submodule "besu"]
+	path = besu
+	url = https://github.com/gluckzhang/besu.git
+	branch = subnode
