@@ -46,3 +46,7 @@ Here we keep track of experiment results.
 | 13 | GetNodeData | eth/66 | 1981 |
 | 15 | GetReceipts | eth/66 | 92 |
 | - | SUM | - | 2851.32 |
+
+### Examples of p2p raw messages received by Besu
+
+https://gist.github.com/gluckzhang/c0d7cdc28fd360b407980c5d810f17ed
