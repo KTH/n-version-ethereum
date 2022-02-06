@@ -5,7 +5,7 @@
 [submodule "ethereum-docker"]
 	path = ethereum-docker
 	url = https://github.com/gluckzhang/ethereum-docker.git
-	branch = geth-v1.10.12
+	branch = master
 [submodule "besu"]
 	path = besu
 	url = https://github.com/gluckzhang/besu.git
